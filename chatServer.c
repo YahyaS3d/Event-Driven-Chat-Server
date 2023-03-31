@@ -1,5 +1,5 @@
-//By: Yahya Saad ID: 322944869
-//Ex4: chatServer.c
+//By: Yahya Saad 
+//chatServer.c
 #include <netinet/in.h>
 #include <signal.h>
 #include <stdio.h>
